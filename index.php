@@ -1,4 +1,5 @@
-<?php include 'konektor.php';
+<?php 
+include 'konektor.php';
 include 'getdata.php'; ?>
 <html lang="en">
 
