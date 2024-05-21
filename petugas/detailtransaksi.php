@@ -1,3 +1,4 @@
+
 <?php include "restrict.php"; ?>
 <?php include "../konektor.php";
 ?>
@@ -7,7 +8,7 @@
 
 <head>
     <link rel="icon" href="../icons/ht.png">
-    <title>BEM | Detail Transaksi</title>
+    <title>Shawlaundry | Detail Transaksi</title>
     <?php include "../cdn.php"; ?>
     <?php include "../theme/temapetugas.php"; ?>
     <style>

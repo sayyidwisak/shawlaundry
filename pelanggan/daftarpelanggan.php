@@ -20,7 +20,7 @@
 
     <nav class="navbar navbar-expand-md fixed-top">
         <div class="container">
-            <a class="navbar-brand judul" href="daftarpelanggan.php">BEM | STIKOM</a>
+            <a class="navbar-brand judul" href="daftarpelanggan.php">Shawlaundry | STIKOM</a>
             <button class="navbar-toggler navbar-light" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
                 <span class="navbar-toggler-icon"></span>
             </button>

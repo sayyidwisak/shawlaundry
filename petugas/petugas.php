@@ -6,7 +6,7 @@
 
 <head>
 	<link rel="icon" href="../icons/hp.png">
-	<title>BEM | Petugas</title>
+	<title>Shawlaundry | Petugas</title>
 	<?php include "../cdn.php"; ?>
 	<?php include "../theme/temapetugas.php"; ?>
 	<style>

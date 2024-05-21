@@ -28,7 +28,7 @@ if ($cek > 1) {
 
 <head>
     <link rel="icon" href="../icons/hh.png">
-    <title>BEM | Beranda</title>
+    <title>Shawlaundry | Beranda</title>
     <?php include '../cdn.php';
     include '../theme/temapetugas.php';
     ?>
@@ -41,7 +41,7 @@ if ($cek > 1) {
     <div id="home" class="jumbotron jumbotron-fluid banner" style="padding-top: 12rem;padding-bottom:9rem;" width="100%">
         <div class="container">
             <h1 align="center">Selamat Datang <?php echo $nama ?></h1>
-            <p align="center">"BEM Laundry" Website Laundry Terbaik, Terdepan Dan Terpercaya</p>
+            <p align="center">"Shawlaundry" Website Laundry Terbaik, Terdepan Dan Terpercaya</p>
             <?php
             if ($cek > '0') {
                 echo "<div align='center'><a href='pelanggan.php' class='text-decoration-none'><div class='alert alert-info statuspelanggan'><i style='font-size:17px' class='fa'>&#xf05a;</i> Ada Data Pelanggan Yang Belum Diverifikasi </div></div></a>";

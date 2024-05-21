@@ -6,7 +6,7 @@
 
 <head>
     <link rel="icon" href="../icons/laundry.png">
-    <title>BEM | Jenis Cucian</title>
+    <title>Shawlaundry | Jenis Cucian</title>
     <?php include "../cdn.php"; ?>
     <?php include "../theme/temapetugas.php"; ?>
     <style>

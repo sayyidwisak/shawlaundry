@@ -6,7 +6,7 @@
 
 <head>
     <link rel="icon" href="../icons/ht.png">
-    <title>BEM | Transaksi</title>
+    <title>Shawlaundry | Transaksi</title>
     <?php include "../cdn.php"; ?>
     <?php include "../theme/temapetugas.php"; ?>
     <style>

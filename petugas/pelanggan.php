@@ -6,7 +6,7 @@
 
 <head>
     <link rel="icon" href="../icons/hp.png">
-    <title>BEM | Pelanggan</title>
+    <title>Shawlaundry | Pelanggan</title>
     <?php include "../cdn.php"; ?>
     <?php include "../theme/temapetugas.php"; ?>
     <style>

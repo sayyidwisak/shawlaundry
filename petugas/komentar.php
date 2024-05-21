@@ -6,7 +6,7 @@
 
 <head>
     <link rel="icon" href="../icons/comment.png">
-    <title>BEM | Pesan</title>
+    <title>Shawlaundry | Pesan</title>
     <?php include "../cdn.php"; ?>
     <?php include "../theme/temapetugas.php"; ?>
     <style>

@@ -21,7 +21,7 @@ if (mysqli_num_rows($data2)) {
 <html lang="en">
 
 <head>
-    <title>BEM | Transaksi Pelanggan</title>
+    <title>Shawlaundry| Transaksi Pelanggan</title>
     <?php include '../cdn.php';
     include '../theme/temapelanggan.php';
     ?>

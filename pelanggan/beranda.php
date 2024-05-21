@@ -22,7 +22,7 @@ if (mysqli_num_rows($data2)) {
 
 <head>
     <link rel="icon" href="../icons/hh.png">
-    <title>BEM | Beranda</title>
+    <title>Shawlaundry | Beranda</title>
     <?php include '../cdn.php';
     include '../theme/temapelanggan.php';
     ?>
@@ -36,7 +36,7 @@ if (mysqli_num_rows($data2)) {
     <div id="home" class="jumbotron jumbotron-fluid banner">
         <div class="container">
             <h1 align="center">Selamat Datang <?php echo $nama ?></h1>
-            <p align="center">"BEM Laundry" Website Laundry Terbaik, Terdepan Dan Terpercaya</p>
+            <p align="center">"Shawlaundry" Website Laundry Terbaik, Terdepan Dan Terpercaya</p>
             <?php
             if (isset($_GET['pesan'])) {
                 if ($_GET['pesan'] == "selamatulangtahun") {
@@ -66,9 +66,9 @@ if (mysqli_num_rows($data2)) {
                     <center><img data-aos="fade-right" data-aos-anchor-placement="top-center" data-aos-duration="900" src="../img/logoBEM.png" alt="Logo BEM"></center>
                 </div>
                 <div data-aos="fade-left" data-aos-anchor-placement="top-center" data-aos-duration="900" class="col-sm-6" style="padding-top:  25px;">
-                    <div class="about-us-title">Website BEM Laundry</div>
+                    <div class="about-us-title">Website Shawlaundry</div>
                     <hr>
-                    <p align="justify">BEM Laundry merupakan Website yang bertujuan untuk memudahkan masyarakat yang sangat sibuk sehingga tidak sempat untuk mencuci pakaiannya sendiri.<br>Pelanggan bisa dengan mudah menghubungi Petugas BEM Laundry, kemudian Petugas yang menjemput cucian Pelanggan tersebut.</p>
+                    <p align="justify">Shawlaundry merupakan Website yang bertujuan untuk memudahkan masyarakat yang sangat sibuk sehingga tidak sempat untuk mencuci pakaiannya sendiri.<br>Pelanggan bisa dengan mudah menghubungi Petugas Shawlaundry, kemudian Petugas yang menjemput cucian Pelanggan tersebut.</p>
                 </div>
             </div>
             <div class="information">
@@ -76,7 +76,7 @@ if (mysqli_num_rows($data2)) {
                     <div data-aos="fade-right" data-aos-anchor-placement="bottom-bottom" data-aos-duration="900" class="col-sm-6">
                         <h4 class="sub">Jenis Cucian</h4>
                         <hr>
-                        <p align="justify">Terdapat beberapa Jenis Cucian yang diterima di BEM Laundry, seperti yang dapat dilihat pada tabel Jenis Cucian tersebut.<br>Nama Jenis Cucian serta Harganya sewaktu-waktu dapat bertambah ataupun berubah tanpa ada pemberitahuan.</p>
+                        <p align="justify">Terdapat beberapa Jenis Cucian yang diterima di Shawlaundry, seperti yang dapat dilihat pada tabel Jenis Cucian tersebut.<br>Nama Jenis Cucian serta Harganya sewaktu-waktu dapat bertambah ataupun berubah tanpa ada pemberitahuan.</p>
                     </div>
                     <div data-aos="fade-left" data-aos-anchor-placement="bottom-bottom" data-aos-duration="900" class="col-sm-6">
                         <?php
